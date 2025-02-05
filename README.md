@@ -647,6 +647,7 @@ Below are some noteworthy resources related to Agentic Design Patterns. The firs
 - CtrlA: Adaptive Retrieval-Augmented Generation via Inherent Control https://arxiv.org/abs/2405.18727
 - Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity https://arxiv.org/abs/2403.14403
 - AT-RAG: An Adaptive RAG Model Enhancing Query Efficiency with Topic Filtering and Iterative Reasoning https://arxiv.org/abs/2410.12886
+- i-MedRAG: Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions https://arxiv.org/abs/2408.00727
 
 <!-- #### 5. Self Reflective Agentic RAG
 - Golden-Retriever: High-Fidelity Agentic Retrieval Augmented Generation for Industrial Knowledge Base https://arxiv.org/pdf/2408.00798v1
